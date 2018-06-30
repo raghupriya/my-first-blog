@@ -1,0 +1,13 @@
+*.pyc
+
+*~
+__pycache__
+
+myvenv
+/
+myvenv366/
+db.sqlite3
+
+/static
+
+notes/
